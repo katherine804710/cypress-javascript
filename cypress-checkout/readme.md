@@ -1,0 +1,1 @@
+I wrote the automation testing for a check out flow. My tests verify total amount are correct. The total amount includes product prices and sales tax. My tests verify the product cost and sales tax are calculated correctly based on the state. Tests files are confirmation.spec and product_catelog.spec.
