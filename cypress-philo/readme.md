@@ -14,4 +14,5 @@ Test cases include:
 3. verify save the show: Once the show is saved, the save button should change to "Saved" and mause over to the button, it should display "unsave".
 Go to save folder, verify the title of the show is the same as the hero title of the show in previous page. 
 
+Tests are saved in integration/examples
 
